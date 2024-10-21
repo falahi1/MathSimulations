@@ -194,13 +194,13 @@ python gauss_seidel.py
 ---
 
 ## How to Use
-### **1**. Setup
+### **1**. Install requried libraries:
 ```bash
-pip install -r requirements.txt
+pip install sympy numpy matplotlib
 ```
 ### **2**. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/MathSimulations.git
+git clone https://github.com/quasar-ix/MathSimulations.git
 ```
 ### **2**. Navigate to the project directory:
 ```bash
@@ -209,6 +209,10 @@ cd MathSimulations
 ### **3**. Run any script by invoking Python:
 ```bash
 python <script_name>.py
+```
+### For example, to run the Derivative Calculator, Use:
+```bash
+python derivative_calculator.py
 ```
 
 ---
