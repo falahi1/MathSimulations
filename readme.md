@@ -194,7 +194,11 @@ python gauss_seidel.py
 ---
 
 ## How to Use
-### **1**. Clone the repository:
+### **1**. Setup
+```bash
+pip install -r requirements.txt
+```
+###**2**. Clone the repository:
 ```bash
 git clone https://github.com/YourUsername/MathSimulations.git
 ```
