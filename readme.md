@@ -200,7 +200,7 @@ pip install sympy numpy matplotlib
 ```
 ### **2**. Clone the repository:
 ```bash
-git clone https://github.com/quasar-ix/MathSimulations.git
+git clone https://github.com/flalhi1/MathSimulations.git
 ```
 ### **2**. Navigate to the project directory:
 ```bash
